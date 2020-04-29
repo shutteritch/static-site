@@ -28,13 +28,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/shutteritch'),
-          ('Another social link', '#'),)
+        )
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+#RELATIVE_URLS = True
 
 THEME = "venv/lib/python3.7/site-packages/pelican/themes/Flex"
-
-TWITTER_USERNAME = "shutteritch"
