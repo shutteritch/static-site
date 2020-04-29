@@ -3,8 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Iain'
-SITENAME = 'static-site'
+SITENAME = "Iain's site"
 SITEURL = ''
+THEME = "/Users/iainweir/pelican-themes/Flex"
 
 PATH = 'content'
 
