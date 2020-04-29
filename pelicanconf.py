@@ -28,7 +28,7 @@ LINKS = (('Photography & Video', 'http://iainweir.info/'),
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/shutteritch'),
-        )
+          ('linkedin', 'https://www.linkedin.com/in/iainweirphotography/'))
 
 DEFAULT_PAGINATION = 10
 
