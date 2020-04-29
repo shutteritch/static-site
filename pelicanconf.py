@@ -27,7 +27,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'http://twitter.com/shutteritch'),
+SOCIAL = (('twitter', 'http://twitter.com/shutteritch'),
         )
 
 DEFAULT_PAGINATION = 10
@@ -37,4 +37,3 @@ DEFAULT_PAGINATION = 10
 
 THEME = "venv/lib/python3.7/site-packages/pelican/themes/Flex"
 
-GITHUB_CORNER_URL = "https://github.com/shutteritch/static-site"
