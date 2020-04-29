@@ -35,4 +35,4 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-THEME = "Flex"
+THEME = "venv/lib/python3.7/site-packages/pelican/themes/Flex"
