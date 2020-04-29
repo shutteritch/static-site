@@ -36,4 +36,4 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = "venv/lib/python3.7/site-packages/pelican/themes/Flex"
-
+TWITTER_USERNAME = "shutteritch"
