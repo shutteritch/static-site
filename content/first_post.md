@@ -18,3 +18,7 @@ I'm writing this in markdown so I can use two * to make text ** bold ** - pretty
 Because I just learned that I can use a single * to make text *italic*.
 
 See you soon!
+
+###I'm back to throw in an image
+
+![RowingPhotography logo]({static}/images/rowingphotography.png)
