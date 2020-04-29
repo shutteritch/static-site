@@ -36,3 +36,5 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = "venv/lib/python3.7/site-packages/pelican/themes/Flex"
+
+GITHUB_CORNER_URL = "https://github.com/shutteritch/static-site"
