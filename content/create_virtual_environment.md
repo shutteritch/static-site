@@ -32,3 +32,9 @@ source venv/bin/activate
 In the terminal you should now see `(venv)` on the command line, this means that the virtual environment is active.
 
 The next step is to install your packages, I will cover this another time!
+
+To leave the virtual environment, you simply need to type the folowing into the command line followed by enter:
+
+~~~
+deactivate
+~~~
