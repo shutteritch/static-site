@@ -7,7 +7,7 @@ Authors: Iain
 Summary: More experimentation with markdown.
 Draft: True
 
-#Trying to figure out what markdown can do and why I would use it.
+##Trying to figure out what markdown can do and why I would use it.
 
 - List item 1
 - List item 2
