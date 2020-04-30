@@ -1,7 +1,7 @@
 Title: How to create a virtual environment on Mac
 Date: 2020-04-30 15:52
 Category: Python
-Tags: 100daysofweb, 100daysofcode, Python, Virtual Environment
+Tags: Python, Virtual Environment
 Slug: create_virtual_environment
 Authors: Iain
 Summary: A short guide on how to create a virtual environment in python.
