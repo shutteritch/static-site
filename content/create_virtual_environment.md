@@ -9,21 +9,24 @@ Draft: True
 
 This concept was quite confusing when I was attempting larger tutorials where you'd create a virtual environment once or maybe twice in the whole tutorial, but having started the \#100DaysOfCode thirty days ago I've had to create quite a few and it's now become second nature.
 
-I start in the terminal by going to the folder where the project is going to be located, usually using the cd command.
+Start in the terminal by going to the folder where the project is going to be located, usually using the cd command.
 
 ~~~
 cd folder/path
 ~~~
 
-Once in the folder I run the command:
+And then once in the folder I run the command:
 
 ~~~
 python3 -m venv venv
 ~~~
 
-This creates the virtual environment, to activate it I then run the following:
+This creates the virtual environment, to check that it's been successful you can simply type `ls` into the terminal to return a list of contents for the folder where you should now see a /venv/ folder.
+
+Next you need to activate the virtual environment, to do that run the following:
 
 ~~~
 source venv/bin/activate
 ~~~
 
+In the terminal you should now see `(venv)` on the command line.
