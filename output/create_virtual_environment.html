@@ -22,26 +22,26 @@
 
 
 <meta name="author" content="Iain" />
-<meta name="description" content="More nonsense that wil probably get deleted once I&#39;ve figured out how this works!" />
-<meta name="keywords" content="100daysofweb, 100daysofcode, Python, Markdown">
+<meta name="description" content="A short guide on how to create a virtual environment in python." />
+<meta name="keywords" content="100daysofweb, 100daysofcode, Python, Virtual Environment">
 
 <meta property="og:site_name" content="Dodsworld"/>
-<meta property="og:title" content="Second Post: Experimenting with Markdown"/>
-<meta property="og:description" content="More nonsense that wil probably get deleted once I&#39;ve figured out how this works!"/>
+<meta property="og:title" content="How to create a virtual environment on Mac"/>
+<meta property="og:description" content="A short guide on how to create a virtual environment in python."/>
 <meta property="og:locale" content="en_US"/>
-<meta property="og:url" content="https://distracted-snyder-1a6b70.netlify.app/second_post.html"/>
+<meta property="og:url" content="https://distracted-snyder-1a6b70.netlify.app/create_virtual_environment.html"/>
 <meta property="og:type" content="article"/>
-<meta property="article:published_time" content="2020-04-30 07:20:00+01:00"/>
+<meta property="article:published_time" content="2020-04-30 15:52:00+01:00"/>
 <meta property="article:modified_time" content=""/>
 <meta property="article:author" content="https://distracted-snyder-1a6b70.netlify.app/author/iain.html">
 <meta property="article:section" content="Python"/>
 <meta property="article:tag" content="100daysofweb"/>
 <meta property="article:tag" content="100daysofcode"/>
 <meta property="article:tag" content="Python"/>
-<meta property="article:tag" content="Markdown"/>
+<meta property="article:tag" content="Virtual Environment"/>
 <meta property="og:image" content="">
 
-  <title>Dodsworld &ndash; Second Post: Experimenting with Markdown</title>
+  <title>Dodsworld &ndash; How to create a virtual environment on Mac</title>
 
 </head>
 <body>
@@ -89,54 +89,32 @@
 
 
     </p>
-    <h1 id="second_post">Second Post: Experimenting with Markdown</h1>
+    <h1 id="create_virtual_environment">How to create a virtual environment on Mac</h1>
   </header>
 
 
   <div>
-    <h2>Markdown is a strange beast!</h2>
-<p>Having just looked at a cheat-sheet I'm curious to see how a table will look.</p>
-<table>
-<thead>
-<tr>
-<th>It looks</th>
-<th>Like this</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Step 1</td>
-<td>Do this.</td>
-</tr>
-<tr>
-<td>Step 2</td>
-<td>Do that.</td>
-</tr>
-<tr>
-<td>Step 3</td>
-<td>Live the dream!</td>
-</tr>
-</tbody>
-</table>
-<p>Did it work?</p>
-<p>How about this to do list?</p>
-<ul>
-<li>[ ] Thing 1</li>
-<li>[ ] Thing 2</li>
-<li>[ ] Thing 3</li>
-</ul>
-<p>2nd attempt.</p>
-<p>Another fail. What about this video?</p>
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/ZgkpiENVNKs" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+    <p>This concept was quite confusing when I was attempting larger tutorials where you'd create a virtual environment once or maybe twice in the whole tutorial, but having started the #100DaysOfCode thirty days ago I've had to create quite a few and it's now become second nature.</p>
+<p>I start in the terminal by going to the folder where the project is going to be located, usually using the cd command.</p>
+<div class="highlight"><pre><span></span><code><span class="err">cd folder/path</span>
+</code></pre></div>
+
+
+<p>Once in the folder I run the command:</p>
+<div class="highlight"><pre><span></span><code><span class="err">python3 -m venv venv</span>
+</code></pre></div>
+
+
+<p>This creates the virtual environment, to activate it I then run the following:</p>
+<div class="highlight"><pre><span></span><code><span class="err">source venv/bin/activate</span>
+</code></pre></div>
   </div>
   <div class="tag-cloud">
     <p>
       <a href="https://distracted-snyder-1a6b70.netlify.app/tag/100daysofweb.html">100daysofweb</a>
       <a href="https://distracted-snyder-1a6b70.netlify.app/tag/100daysofcode.html">100daysofcode</a>
       <a href="https://distracted-snyder-1a6b70.netlify.app/tag/python.html">Python</a>
-      <a href="https://distracted-snyder-1a6b70.netlify.app/tag/markdown.html">Markdown</a>
+      <a href="https://distracted-snyder-1a6b70.netlify.app/tag/virtual-environment.html">Virtual Environment</a>
     </p>
   </div>
 
