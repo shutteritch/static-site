@@ -29,4 +29,6 @@ Next you need to activate the virtual environment, to do that run the following:
 source venv/bin/activate
 ~~~
 
-In the terminal you should now see `(venv)` on the command line.
+In the terminal you should now see `(venv)` on the command line, this means that the virtual environment is active.
+
+The next step is to install your packages, I will cover this another time!
