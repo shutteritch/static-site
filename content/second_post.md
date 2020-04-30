@@ -21,6 +21,8 @@ Did it work?
 
 How about this to do list?
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [ ] Thing 1
+- [ ] Thing 2
+- [ ] Thing 3
+
+2nd attempt.
