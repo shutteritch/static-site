@@ -26,6 +26,11 @@ LINKS = (('Photography & Video', 'http://iainweir.info/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
+# Menu
+MENUITEMS = (('Archives', '/archives.html'),
+             ('Categories', '/categories.html'),
+             ('Tags', '/tags.html'),)
+
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/shutteritch'),
           ('linkedin', 'https://www.linkedin.com/in/iainweirphotography/'))
