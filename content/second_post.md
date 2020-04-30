@@ -18,3 +18,9 @@ Having just looked at a cheat-sheet I'm curious to see how a table will look.
 | Step 3 | Live the dream! |
 
 Did it work?
+
+How about this to do list?
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
