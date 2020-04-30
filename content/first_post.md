@@ -11,7 +11,7 @@ Draft: True
 
 And this is the first paragraph of the article.
 
-I'm writing this in markdown so I can use two * to make text ** bold ** - pretty cool!
+I'm writing this in markdown so I can use two * to make text **bold** - pretty cool!
 
 ###Stay tuned for more updates!
 
@@ -22,3 +22,5 @@ See you soon!
 ###I'm back to throw in an image
 
 [![RowingPhotography logo]({static}/images/rowingphotography.png)](http://rowingphotography.co.uk)
+
+This is an **image** with a _link_!
