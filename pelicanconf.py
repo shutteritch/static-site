@@ -43,3 +43,6 @@ DEFAULT_PAGINATION = 10
 
 THEME = "venv/lib/python3.7/site-packages/pelican/themes/Flex"
 TWITTER_USERNAME = "shutteritch"
+
+COPYRIGHT_NAME = "Iain Weir"
+COPYRIGHT_YEAR = "2020"
