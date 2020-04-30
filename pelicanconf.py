@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Iain'
 SITENAME = "Dodsworld"
-SITEURL = ''
+SITEURL = 'https://distracted-snyder-1a6b70.netlify.app'
 
 
 PATH = 'content'
