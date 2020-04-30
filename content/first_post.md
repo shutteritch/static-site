@@ -21,4 +21,4 @@ See you soon!
 
 ###I'm back to throw in an image
 
-![RowingPhotography logo]({static}/images/rowingphotography.png)(http://rowingphotography.co.uk)
+[![RowingPhotography logo]({static}/images/rowingphotography.png)](http://rowingphotography.co.uk)
