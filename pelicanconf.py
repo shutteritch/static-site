@@ -27,6 +27,7 @@ LINKS = (('Photography & Video', 'http://iainweir.info/'),
          ('You can modify those links in your config file', '#'),)
 
 # Menu
+MAIN_MENU = True
 MENUITEMS = (('Archives', '/archives.html'),
              ('Categories', '/categories.html'),
              ('Tags', '/tags.html'),)
