@@ -7,9 +7,7 @@ Authors: Iain
 Summary: A short guide on how to create a virtual environment in python.
 Draft: True
 
-This concept was quite confusing when I was attempting larger tutorials where you'd create a virtual environment once or maybe twice in the whole tutorial, but having started the \#100DaysOfCode thirty days ago I've had to create quite a few and it's now become second nature.
-
-Start in the terminal by going to the folder where the project is going to be located, usually using the cd command.
+Open a terminal window and go to the folder where the project is going to be located, usually using the cd command.
 
 ~~~
 cd folder/path
