@@ -1,6 +1,6 @@
 Title: How to create a virtual environment on Mac
 Date: 2020-04-30 15:52
-Category: Python
+Category: Code
 Tags: Python, Virtual Environment
 Slug: create_virtual_environment
 Authors: Iain
