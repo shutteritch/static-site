@@ -10,7 +10,7 @@ I wish I'd found this book sooner. As someone who had used MS Excel quite a bit 
 
 <a class="link-button" href="https://amzn.to/3f7bfm1">Learn More</a>
 
-##Data Science from Scratch: First Principles with Python - Joel Grus
+##[Data Science from Scratch: First Principles with Python - Joel Grus](https://amzn.to/2KSl5KJ)
 
 [![Data Science from Scratch - Cover](https://images-na.ssl-images-amazon.com/images/I/51XwoyG7MrL._SX379_BO1,204,203,200_.jpg)](https://amzn.to/2KSl5KJ)
 
@@ -20,5 +20,11 @@ I'm more interested in Python for the web at the moment (hence I've been doing t
 
 <a class="link-button" href="https://amzn.to/2KSl5KJ">Learn More</a>
 
+##[Django for APIs - Will Vincent](https://amzn.to/2ygP7VJ)
 
+[![Django for APIs - Cover](https://images-na.ssl-images-amazon.com/images/I/41HfUO7-%2BNL._SX384_BO1,204,203,200_.jpg)](https://amzn.to/2ygP7VJ)
+
+I'm still only part way through this book but so far it's been a great way to get up and running with Django Rest Framework, something I'll be learning more about as I progress with the \#100DaysOfWeb - I'm only on day 31 as I write this.
+
+<a class="link-button" href="https://amzn.to/2ygP7VJ">Learn More</a>
 
