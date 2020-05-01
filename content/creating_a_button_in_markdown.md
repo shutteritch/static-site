@@ -11,7 +11,7 @@ The bad news is that google let me down in as much as I couldn't find a way to c
 
 ###You can simply add HTML to your Markdown code!!! 🤯
 
-So, I added a button using HTML.
+So, I started adding a button using HTML.
 
 But then... I found an even better way. Instead of creating a button I simply created a link and added a class.
 
