@@ -21,8 +21,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Photography & Video', 'http://iainweir.info/'),
-         ('Learning Code', 'https://distracted-snyder-1a6b70.netlify.app/category/code.html')
+LINKS = (('Learning Code', 'https://distracted-snyder-1a6b70.netlify.app/category/code.html'),
+         ('Photography & Video', 'http://iainweir.info/'),
+         
          )
 
 # Menu
