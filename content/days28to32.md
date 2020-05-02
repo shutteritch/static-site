@@ -4,14 +4,12 @@ Category: Code
 Tags: Markdown, HTML, CSS, 100DaysOfWeb, 100DaysOfCode, Python, Pelican, GitHub
 Slug: static-website-with-pelican
 Authors: Iain
-Summary: I wanted to create a button for this site but am new to Markdown. Here's how I managed it.
+Summary: A summary of the work I've done on this site as part of the 100 Days of Web in Python course.
 Draft: True
 
-For days 29-32 of the \#100DaysOfCode I learned how to create a static website using Pelican. **This website in fact!**
+For days 29-32 of the [\#100DaysOfWeb course](https://training.talkpython.fm/courses/explore_100days_web/100-days-of-web-in-python) I learned how to create a static website using Pelican. **This website in fact!**
 
-Pelican automatically generates HTML pages from the more readable Markdown content that I create on my computer. I then push this to the connected repository on Github where Netlify detects new content and automatically adds it to the live site.
-
-It sounds a little bit disjointed but once it's setup it makes it really easy to update the site from a text editor and command line.
+Pelican automatically generates HTML pages from the more readable Markdown content that I create on my computer. I then push this to the connected repository on Github where Netlify detects new content and automatically adds it to the live site. It sounds a little bit disjointed but once it's setup it makes it really easy to update the site from a text editor and command line.
 
 Once the site was up and running after days 1 and 2 it was just left to me to have a play on days 3 and 4 and what you see now it the result.
 
