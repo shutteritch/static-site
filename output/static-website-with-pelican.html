@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="" />
+
+  <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="https://distracted-snyder-1a6b70.netlify.app/theme/stylesheet/style.min.css">
+
+  <link rel="stylesheet" type="text/css" href="https://distracted-snyder-1a6b70.netlify.app/theme/pygments/github.min.css">
+  <link rel="stylesheet" type="text/css" href="https://distracted-snyder-1a6b70.netlify.app/theme/font-awesome/css/font-awesome.min.css">
+
+
+
+
+
+
+
+<meta name="author" content="Iain" />
+<meta name="description" content="I wanted to create a button for this site but am new to Markdown. Here&#39;s how I managed it." />
+<meta name="keywords" content="Markdown, HTML, CSS, 100DaysOfWeb, 100DaysOfCode, Python, Pelican, GitHub">
+
+<meta property="og:site_name" content="Dodsworld"/>
+<meta property="og:title" content="100DaysOfCode Days 29-32: Static Websites"/>
+<meta property="og:description" content="I wanted to create a button for this site but am new to Markdown. Here&#39;s how I managed it."/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:url" content="https://distracted-snyder-1a6b70.netlify.app/static-website-with-pelican.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2020-05-02 10:15:00+01:00"/>
+<meta property="article:modified_time" content=""/>
+<meta property="article:author" content="https://distracted-snyder-1a6b70.netlify.app/author/iain.html">
+<meta property="article:section" content="Code"/>
+<meta property="article:tag" content="Markdown"/>
+<meta property="article:tag" content="HTML"/>
+<meta property="article:tag" content="CSS"/>
+<meta property="article:tag" content="100DaysOfWeb"/>
+<meta property="article:tag" content="100DaysOfCode"/>
+<meta property="article:tag" content="Python"/>
+<meta property="article:tag" content="Pelican"/>
+<meta property="article:tag" content="GitHub"/>
+<meta property="og:image" content="">
+
+  <title>Dodsworld &ndash; 100DaysOfCode Days 29-32: Static Websites</title>
+
+</head>
+<body>
+  <aside>
+    <div>
+      <a href="https://distracted-snyder-1a6b70.netlify.app">
+        <img src="https://distracted-snyder-1a6b70.netlify.app/theme/img/profile1.png" alt="" title="">
+      </a>
+      <h1><a href="https://distracted-snyder-1a6b70.netlify.app"></a></h1>
+
+
+      <nav>
+        <ul class="list">
+          <li><a href="https://distracted-snyder-1a6b70.netlify.app/category/code.html" target="_blank">Learning Code</a></li>
+          <li><a href="http://iainweir.info/" target="_blank">Photography & Video</a></li>
+          <li><a href="https://distracted-snyder-1a6b70.netlify.app/pages/python-books.html#python-books">Python Books</a></li>
+
+         
+        </ul>
+      </nav>
+
+      <ul class="social">
+        <li><a class="sc-twitter" href="http://twitter.com/shutteritch" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li><a class="sc-linkedin" href="https://www.linkedin.com/in/iainweirphotography/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        <li><a class="sc-instagram" href="http://instagram.com/shutteritch" target="_blank"><i class="fa fa-instagram"></i></a></li>
+      </ul>
+    </div>
+
+
+  </aside>
+  <main>
+
+    <nav>
+      <a href="https://distracted-snyder-1a6b70.netlify.app">Home</a>
+
+      <a href="/archives.html">Archives</a>
+      <a href="/categories.html">Categories</a>
+      <a href="/tags.html">Tags</a>
+
+
+    </nav>
+
+<article class="single">
+  <header>
+      
+    <p>
+          Posted on Sat 02 May 2020 in <a href="https://distracted-snyder-1a6b70.netlify.app/category/code.html">Code</a>
+
+
+    </p>
+    <h1 id="static-website-with-pelican">100DaysOfCode Days 29-32: Static Websites</h1>
+  </header>
+
+
+  <div>
+    <p>For days 29-32 of the #100DaysOfCode I learned how to create a static website using Pelican. <strong>This website in fact!</strong></p>
+<p>Pelican automatically generates HTML pages from the more readable Markdown content that I create on my computer. I then push this to the connected repository on Github where Netlify detects new content and automatically adds it to the live site.</p>
+<p>It sounds a little bit disjointed but once it's setup it makes it really easy to update the site from a text editor and command line.</p>
+<p>Once the site was up and running after days 1 and 2 it was just left to me to have a play on days 3 and 4 and what you see now it the result.</p>
+<p>A summary of what I've done is as follows:</p>
+<ul>
+<li>Created a couple of new blog posts, using markdown to incorporate sections of code and hyperlinks.</li>
+<li>Created a page listing Python books that I've found useful, this page includes:<ul>
+<li>Images that hyperlink to the relevant amazon pages, written in markdown.</li>
+<li>Buttons that link to amazon, which I tried to write in markdown but couldnt find a way, until I learned that you could simply write HTML - <a href="https://distracted-snyder-1a6b70.netlify.app/create_button_in_markdown.html#create_button_in_markdown">I wrote a post about this</a>.</li>
+</ul>
+</li>
+<li>Installed a new theme to the site.</li>
+<li>Fixed a bug in the theme whereby the two parralel lines in the menu bar were displaying incorrectly between 'Home' and the rest.</li>
+<li>Changed the layout of a blog post to show the date at the top, above the title instead of below. This involved editing the HTML as well as the CSS to improve the spacing afterwards.</li>
+<li>Changed the order of the links in the sidebar by flipping the order of the for loops. It now goes Links then Pages rather than Pages then Links.</li>
+<li>Added some social accounts.</li>
+<li>Changed the photo.</li>
+</ul>
+<p>I'm not sure that I'll be keeping this site active, it's a very simple and effective way to keep a text based blog, but looking forward in the plan for the rest of the 100 Days of Web course there are lots of other interesting frameworks in the pipeline!</p>
+<p>Bye for now!</p>
+  </div>
+  <div class="tag-cloud">
+    <p>
+      <a href="https://distracted-snyder-1a6b70.netlify.app/tag/markdown.html">Markdown</a>
+      <a href="https://distracted-snyder-1a6b70.netlify.app/tag/html.html">HTML</a>
+      <a href="https://distracted-snyder-1a6b70.netlify.app/tag/css.html">CSS</a>
+      <a href="https://distracted-snyder-1a6b70.netlify.app/tag/100daysofweb.html">100DaysOfWeb</a>
+      <a href="https://distracted-snyder-1a6b70.netlify.app/tag/100daysofcode.html">100DaysOfCode</a>
+      <a href="https://distracted-snyder-1a6b70.netlify.app/tag/python.html">Python</a>
+      <a href="https://distracted-snyder-1a6b70.netlify.app/tag/pelican.html">Pelican</a>
+      <a href="https://distracted-snyder-1a6b70.netlify.app/tag/github.html">GitHub</a>
+    </p>
+  </div>
+
+
+
+
+
+</article>
+
+    <footer>
+<p>&copy; Iain Weir 2020</p>
+<p>    Powered by <a href="http://getpelican.com" target="_blank">Pelican</a> - <a href="https://github.com/alexandrevicenzi/flex" target="_blank">Flex</a> theme
+</p>    </footer>
+  </main>
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Blog",
+  "name": " Dodsworld ",
+  "url" : "https://distracted-snyder-1a6b70.netlify.app",
+  "image": "",
+  "description": ""
+}
+</script>
+
+</body>
+</html>
