@@ -23,7 +23,7 @@ A summary of what I've done is as follows:
     - Buttons that link to amazon, which I tried to write in markdown but couldnt find a way, until I learned that you could simply write HTML - [I wrote a post about this](https://distracted-snyder-1a6b70.netlify.app/create_button_in_markdown.html#create_button_in_markdown).
 - Installed a new theme to the site.
 - Fixed a bug in the theme whereby the two parralel lines in the menu bar were displaying incorrectly between 'Home' and the rest.
-- Changed the layout of a blog post to show the date at the top, above the title instead of below. This involved editing the HTML as well as the CSS to improve the spacing afterwards.
+- Changed the layout of a blog post to show the date at the top, above the title instead of below. This involved re-arranging the HTML as well as the CSS to improve the spacing and also moving the id tag so that links to the article started with the date at the top and not the title.
 - Changed the order of the links in the sidebar by flipping the order of the for loops. It now goes Links then Pages rather than Pages then Links.
 - Added some social accounts.
 - Changed the photo.
