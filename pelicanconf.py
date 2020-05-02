@@ -32,7 +32,8 @@ MENUITEMS = (('Archives', '/archives.html'),
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/shutteritch'),
-          ('linkedin', 'https://www.linkedin.com/in/iainweirphotography/'))
+          ('linkedin', 'https://www.linkedin.com/in/iainweirphotography/'),
+          ('instagram', 'http://instagram.com/shutteritch'),)
 
 DEFAULT_PAGINATION = 10
 
